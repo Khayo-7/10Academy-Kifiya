@@ -1,0 +1,8 @@
+.gitignore
+.github/
+.streamlit/
+.vscode/
+**/data/
+data.*
+env/ 
+*.pyc
