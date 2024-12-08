@@ -2,7 +2,7 @@
 .github/
 .streamlit/
 .vscode/
-**/data/
+data/*
 data.*
 env/ 
 *.pyc
