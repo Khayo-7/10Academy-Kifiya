@@ -2,7 +2,6 @@
 .github/
 .streamlit/
 .vscode/
-data/*
-data.*
-env/ 
 *.pyc
+env/ 
+data/*/*.csv
