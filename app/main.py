@@ -50,7 +50,7 @@ selected_dataset = all_uncleaned_data.get(selected_dataset_name, pd.DataFrame())
 
 # App Title
 st.title(f"Solar Farm Data Analysis Dashboard for {selected_dataset_name}")
-st.write(f"Dataset: {selected_dataset_name}", selected_dataset)
+# st.write(f"Dataset: {selected_dataset_name}", selected_dataset)
 
 # Create Tabs
 tab_overview, tab_eda, tab_visuals, tab_advanced = st.tabs(["Overview", "EDA", "Visualizations", "Advanced Analysis"])
