@@ -5,3 +5,5 @@
 *.pyc
 env/ 
 data/*/*.csv
+data.*
+**/*.csv
